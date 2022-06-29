@@ -1,0 +1,119 @@
+{
+  "questions": [
+    {
+      "start": "Huge",
+      "ans": "Large",
+      "end": ""
+    },
+    {
+      "start": "Quick",
+      "ans": "Fast",
+      "end": ""
+    },
+    {
+      "start": "Ill",
+      "ans": "Sick",
+      "end": ""
+    },
+    {
+      "start": "Friend",
+      "ans": "Pal",
+      "end": ""
+    },
+    {
+      "start": "Silent",
+      "ans": "Quiet",
+      "end": ""
+    },
+    {
+      "start": "Speak",
+      "ans": "Talk",
+      "end": ""
+    },
+    {
+      "start": "Glad",
+      "ans": "Happy",
+      "end": ""
+    },
+    {
+      "start": "Rude",
+      "ans": "Mean",
+      "end": ""
+    },
+    {
+      "start": "Wet",
+      "ans": "Damp",
+      "end": ""
+    },
+    {
+      "start": "Raise",
+      "ans": "Lift",
+      "end": ""
+    },
+    {
+      "start": "Angry",
+      "ans": "Mad",
+      "end": ""
+    },
+    {
+      "start": "Thin",
+      "ans": "Skinny",
+      "end": ""
+    },
+    {
+      "start": "Delicious",
+      "ans": "Tasty",
+      "end": ""
+    },
+    {
+      "start": "Strange",
+      "ans": "Unusual",
+      "end": ""
+    }
+  ],
+  "words": [
+    {
+      "word": "Large" 
+    },
+    {
+      "word": "Fast" 
+    },
+    {
+      "word": "Sick" 
+    },
+    {
+      "word": "Pal" 
+    },
+    {
+      "word": "Quiet" 
+    },
+    {
+      "word": "Talk" 
+    },
+    {
+      "word": "Happy" 
+    },
+    {
+      "word": "Mean" 
+    },
+    {
+      "word": "Damp" 
+    },
+    {
+      "word": "Lift" 
+    },
+    {
+      "word": "Mad" 
+    },
+    {
+      "word": "Skinny" 
+    },
+    {
+      "word": "Tasty" 
+    },
+    {
+      "word": "Unusual" 
+    }
+  ]
+}
+  

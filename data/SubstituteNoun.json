@@ -1,0 +1,16 @@
+[
+  [ {"o":"Sarah", "r":"She"}, "made dinner for the whole family." ],
+  [ "Tyler played tag with", {"o":"Miguel and Ramon", "r":"them"}, "." ],
+  [ "Mr. Cane went to the movies with", {"o":"Mrs. Cane", "r":"her"}, "." ],
+  [ {"o":"The house", "r":"It"}, "needs a fresh coat of paint." ],
+  [ "I bought a gift for", {"o":"Jaden and Jessie", "r":"them"}, "." ],
+  [ "Jody made a cake for", {"o":"Daniel", "r":"him"}, "." ],
+  [ "We threw a surprise party for", {"o":"Timothy", "r":"him"}, "." ],
+  [ "Give your empty plates to", {"o":"Jenny and Suzanna", "r":"them"}, "." ],
+  [ "I really like", {"o":"the new clothes I got", "r":"them"}, "." ],
+  [ "Sylvie brought", {"o":"the trash can", "r":"it"}, "to the curb." ],
+  [ "I need to take", {"o":"my dog Scrounger", "r":"it"}, "for her walk." ],
+  [ "There’s enough candy for", {"o":"both you and me", "r":"us"}, "." ],
+  [ "Byronwent to the store with", {"o":"my brother and me", "r":"us"}, "." ],
+  [ "Mrs. Osawagave me an A on", {"o":"the test", "r":"it"}, "." ]
+]

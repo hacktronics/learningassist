@@ -1,0 +1,94 @@
+[
+  {
+    "sentence": ["Paris", "is", "famous", "for", "good", "food", "."],
+    "answer": [3]
+  },
+  {
+    "sentence": ["There", "is", "no", "tornado", "."],
+    "answer": [0]
+  },
+  {
+    "sentence": ["I", "am", "saving", "money", "to", "buy", "a", "train", "set", "."],
+    "answer": [0]
+  },
+  {
+    "sentence": ["Last", "summer", ",", "I", "rode", "in", "a", "bulldozer", "."],
+    "answer": [3]
+  },
+  {
+    "sentence": ["In", "what", "city", "were", "you", "born", "?"],
+    "answer": [1, 4]
+  },
+  {
+    "sentence": ["What", "do", "you", "do", "when", "it", "is", "hot", "outside", "?"],
+    "answer": [0, 2, 5]
+  },
+  {
+    "sentence": ["It", "is", "not", "difficult", "to", "pitch", "a", "tent", "."],
+    "answer": [0]
+  },
+  {
+    "sentence": ["That", "song", "sounds", "quite", "sad", "to", "me", "."],
+    "answer": [6]
+  },
+  {
+    "sentence": ["That", "is", "a", "hilarious", "movie", "."],
+    "answer": [0]
+  },
+  {
+    "sentence": ["My", "sister", "screams", "when", "she", "sees", "spiders", "."],
+    "answer": [4]
+  },
+  {
+    "sentence": ["Our", "cat", "caught", "a", "mouse", "last", "week", "."],
+    "answer": [0]
+  },
+  {
+    "sentence": ["What", "are", "your", "favorite", "winter", "sports", "?"],
+    "answer": [0]
+  },
+  {
+    "sentence": ["She", "went", "to", "the", "store", "with", "Angela", "."],
+    "answer": [0]
+  },
+  {
+    "sentence": ["Six", "of", "us", "had", "to", "squeeze", "in", "the", "tiny", "car", "."],
+    "answer": [2]
+  },
+  {
+    "sentence": ["Every", "Thursday", ",", "Kenny", "goes", "to", "Wal-Mart", "with", "them", "."],
+    "answer": [8]
+  },
+  {
+    "sentence": ["At", "the", "store", ",", "the", "cashier", "gave", "her", "some", "change", "."],
+    "answer": [7]
+  },
+  {
+    "sentence": ["When", "the", "sun", "comes", "up", ",", "he", "leaves", "for", "work", "."],
+    "answer": [6]
+  },
+  {
+    "sentence": ["I", "enjoyed", "seeing", "them", "on", "the", "playground", "."],
+    "answer": [0, 3]
+  },
+  {
+    "sentence": ["Have", "you", "hung", "the", "painting", "on", "the", "wall", "yet", "?"],
+    "answer": [1]
+  },
+  {
+    "sentence": ["If", "I", "eat", "all", "of", "these", "vegetables", ",", "mother", "will", "let", "me", "watch", "television", "."],
+    "answer": [1, 11]
+  },
+  {
+    "sentence": ["We", "played", "with", "the", "puppy", ",", "then", "fed", "her", "a", "biscuit", "."],
+    "answer": [0, 8]
+  },
+  {
+    "sentence": ["Have", "you", "seen", "the", "sandcastle", "we", "built", "?"],
+    "answer": [1, 5]
+  },
+  {
+    "sentence": ["I", "bounced", "the", "ball", "and", "Jack", "ran", "after", "it", "."],
+    "answer": [0, 8]
+  }
+]

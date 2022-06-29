@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "student": "Aarav Bolia",
+    "questions": ["C", "W", "S", "C", "C", "W", "S", "W", "C", "C"],
+    "score": 5
+  },
+  {
+    "id": 2,
+    "student": "Neha Mehta",
+    "questions": ["W", "C", "C", "S", "W", "S", "C", "C", "W", "S"],
+    "score": 4
+  }
+]

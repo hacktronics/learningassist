@@ -1,0 +1,27 @@
+{
+  "maths": [
+    {
+      "name": "Least Common Multiples (LCMs) - Part 1",
+      "short_name": "LCM Introduction",
+      "synopsis": "A common multiple of two whole numbers a and b is a number c which a and b both divide into evenly.",
+      "path": "/lesson/maths/1/least-common-multiples-lcm-part-1",
+      "cover": "/lessons/maths/1/assets/cover.jpg"
+    },
+    {
+      "name": "Least Common Multiples (LCMs) - Part 2",
+      "short_name": "LCM Prime Factorization",
+      "synopsis": "Another way to find the LCM of two numbers is to divide their product by their greatest common factor ( GCF ).",
+      "path": "/lesson/maths/2/least-common-multiples-lcm-part-2",
+      "cover": "/lessons/maths/2/assets/cover.jpg"
+    },
+    {
+      "name": "Adding Fractions with Unlike Denominators",
+      "short_name": "Fraction Addition",
+      "synopsis": "If the denominators are not the same, then you have to use equivalent fractions which do have a common denominator.",
+      "path": "/lesson/maths/3/adding-fractions-with-unlike-denominators",
+      "cover": "/lessons/maths/3/assets/cover.jpg"
+    }
+  ],
+  "science": [],
+  "english": []
+}

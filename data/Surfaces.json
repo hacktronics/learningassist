@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sphere",
+    "img": "/img/surfaces/sphere.png",
+    "curved": 1,
+    "flat": 0
+  },
+  {
+    "name": "Cylinder",
+    "img": "/img/surfaces/cylinder.png",
+    "curved": 1,
+    "flat": 2
+  },
+  {
+    "name": "Cone",
+    "img": "/img/surfaces/cone.png",
+    "curved": 1,
+    "flat": 1
+  },
+  {
+    "name": "Cube",
+    "img": "/img/surfaces/cube.png",
+    "curved": 0,
+    "flat": 6
+  },
+  {
+    "name": "Prism",
+    "img": "/img/surfaces/prism.png",
+    "curved": 0,
+    "flat": 6
+  },
+  {
+    "name": "Pyramid",
+    "img": "/img/surfaces/pyramid.png",
+    "curved": 0,
+    "flat": 5
+  }
+]

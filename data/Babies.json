@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "img": "/img/babies/tiger.jpg",
+    "question": "Tiger",
+    "answer": "Cub"
+  },
+  {
+    "id": 2,
+    "img": "/img/babies/frog.jpg",
+    "question": "Frog",
+    "answer": "Tadpole"
+  },
+  {
+    "id": 3,
+    "img": "/img/babies/goat.jpg",
+    "question": "Goat",
+    "answer": "Kid"
+  },
+  {
+    "id": 4,
+    "img": "/img/babies/hen.jpg",
+    "question": "Hen",
+    "answer": "Chick"
+  },
+  {
+    "id": 5,
+    "img": "/img/babies/horse.jpg",
+    "question": "Horse",
+    "answer": "Foal"
+  },
+  {
+    "id": 6,
+    "img": "/img/babies/sheep.jpg",
+    "question": "Sheep",
+    "answer": "Lamb"
+  },
+  {
+    "id": 7,
+    "img": "/img/babies/cat.jpg",
+    "question": "Cat",
+    "answer": "Kitten"
+  },
+  {
+    "id": 8,
+    "img": "/img/babies/cow.jpg",
+    "question": "Cow",
+    "answer": "Calf"
+  },
+  {
+    "id": 9,
+    "img": "/img/babies/deer.jpg",
+    "question": "Deer",
+    "answer": "Fawn"
+  },
+  {
+    "id": 10,
+    "img": "/img/babies/kangaroo.jpg",
+    "question": "Kangaroo",
+    "answer": "Joey"
+  },
+  {
+    "id": 11,
+    "img": "/img/babies/pig.jpg",
+    "question": "Pig",
+    "answer": "Piglet"
+  },
+  {
+    "id": 12,
+    "img": "/img/babies/monkey.jpg",
+    "question": "Monkey",
+    "answer": "Infant"
+  },
+  {
+    "id": 13,
+    "img": "/img/babies/duck.jpg",
+    "question": "Duck",
+    "answer": "Duckling"
+  },
+  {
+    "id": 14,
+    "img": "/img/babies/dog.jpg",
+    "question": "Dog",
+    "answer": "Puppy"
+  },
+  {
+    "id": 15,
+    "img": "/img/babies/zebra.jpg",
+    "question": "Zebra",
+    "answer": "Colt"
+  }
+]

@@ -1,0 +1,189 @@
+[
+    {
+      "options": [
+                "Rectangle",
+                "Pentagon",
+                "Hexagon",
+                "Parallelogram"
+              ],
+      "img": "/img/shapes/hexagon.png",
+      "question": "Which 2D shape is this?",
+      "answer": 2
+    },
+    {
+      "options": [
+                "Rectangle",
+                "Trapezium",
+                "Parallelogram",
+                "Rhombus"
+              ],
+      "img": "/img/shapes/trapezium.png",
+      "question": "Which 2D shape is this?",
+      "answer": 1
+    },
+    {
+      "options": [
+                "Semi Circle",
+                "Heart",
+                "Circle",
+                "Oval"
+              ],
+      "img": "/img/shapes/circle.png",
+      "question": "Which 2D shape is this?",
+      "answer": 2
+    },
+    {
+      "options": [
+                "Oval",
+                "Circle",
+                "Heart",
+                "Rhombus"
+              ],
+      "img": "/img/shapes/heart.png",
+      "question": "Which 2D shape is this?",
+      "answer": 2
+    },
+    {
+      "options": [
+                "Octagon",
+                "Trapezium",
+                "Pentagon",
+                "Rhombus"
+              ],
+      "img": "/img/shapes/octagon.png",
+      "question": "Which 2D shape is this?",
+      "answer": 0
+    },
+    {
+      "options": [
+                "Circle",
+                "Oval",
+                "Heart",
+                "Semi Circle"
+              ],
+      "img": "/img/shapes/oval.png",
+      "question": "Which 2D shape is this?",
+      "answer": 1
+    },
+    {
+      "options": [
+                "Rectangle",
+                "Square",
+                "Hexagon",
+                "Pentagon"
+              ],
+      "img": "/img/shapes/pentagon.png",
+      "question": "Which 2D shape is this?",
+      "answer": 3
+    },
+    {
+      "options": [
+                "Rectangle",
+                "Parallelogram",
+                "Square",
+                "Rhombus"
+              ],
+      "img": "/img/shapes/square.png",
+      "question": "Which 2D shape is this?",
+      "answer": 2
+    },
+    {
+      "options": [
+                "Rectangle",
+                "Square",
+                "Parallelogram",
+                "Star"
+              ],
+      "img": "/img/shapes/rectangle.png",
+      "question": "Which 2D shape is this?",
+      "answer": 0
+    },
+    {
+      "options": [
+                "Rectangle",
+                "Square",
+                "Parallelogram",
+                "Rhombus"
+              ],
+      "img": "/img/shapes/rhombus.png",
+      "question": "Which 2D shape is this?",
+      "answer": 3
+    },
+    {
+      "options": [
+                "Circle",
+                "Semi Circle",
+                "Star",
+                "Oval"
+              ],
+      "img": "/img/shapes/semicircle.png",
+      "question": "Which 2D shape is this?",
+      "answer": 1
+    },
+    {
+      "options": [
+                "Star",
+                "Circle",
+                "Triangle",
+                "Rhombus"
+              ],
+      "img": "/img/shapes/star.png",
+      "question": "Which 2D shape is this?",
+      "answer": 0
+    },
+    {
+      "options": [
+                "Square",
+                "Rhombus",
+                "Triangle",
+                "Hexagon"
+              ],
+      "img": "/img/shapes/triangle.png",
+      "question": "Which 2D shape is this?",
+      "answer": 2
+    },
+    {
+      "options": [
+                "Square",
+                "Rhombus",
+                "Parallelogram",
+                "Rectangle"
+              ],
+      "img": "/img/shapes/parallelogram.png",
+      "question": "Which 2D shape is this?",
+      "answer": 2
+    },
+    {
+      "options": [
+                "Right Triangle",
+                "Rhombus",
+                "Scalene",
+                "Trapezium"
+              ],
+      "img": "/img/shapes/righttriangle.png",
+      "question": "Which 2D shape is this?",
+      "answer": 0
+    },
+    {
+      "options": [
+                "Rhombus",
+                "Scalene",
+                "Rectangle",
+                "Right Triangle"
+              ],
+      "img": "/img/shapes/scalenetriangle.png",
+      "question": "Which 2D shape is this?",
+      "answer": 1
+    },
+    {
+      "options": [
+                "Oval",
+                "Circle",
+                "Eclipse",
+                "Heart"
+              ],
+      "img": "/img/shapes/eclipse.png",
+      "question": "Which 2D shape is this?",
+      "answer": 2
+    }
+]

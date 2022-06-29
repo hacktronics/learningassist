@@ -1,0 +1,74 @@
+[
+  {
+    "word": "grandma",
+    "type": "person"
+  }, 
+  {
+    "word": "country", 
+    "type": "place"
+  }, 
+  {
+    "word": "tree", 
+    "type": "thing"
+  }, 
+  {
+    "word": "teacher", 
+    "type": "person"
+  },
+  {
+    "word": "rock", 
+    "type": "thing"
+  }, 
+  {
+    "word": "baby",
+    "type": "person"
+  },
+  {
+    "word": "pencil",
+    "type": "thing"
+  }, 
+  {
+    "word": "woman",
+    "type": "person"
+  }, 
+  {
+    "word": "cloud",
+    "type": "thing"
+  }, 
+  {
+    "word": "store", 
+    "type": "place"
+  },
+  {
+    "word": "state",
+    "type": "place"
+  }, 
+  {
+    "word": "singer",
+    "type": "person"
+  },
+  {
+    "word": "water",
+    "type": "thing"
+  }, 
+  {
+    "word": "city",
+    "type": "place"
+  }, 
+  {
+    "word": "book",
+    "type": "thing"
+  }, 
+  {
+    "word": "office",
+    "type": "place"
+  }, 
+  {
+    "word": "policeman",
+    "type": "person"
+  }, 
+  {
+    "word": "playground",
+    "type": "place"
+  }
+]

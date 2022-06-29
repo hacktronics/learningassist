@@ -1,0 +1,85 @@
+{
+  "cross": "/img/foods/cross.png",
+  "ques": [
+            {
+              "img": "/img/foods/apple.jpg",
+              "name": "Apple",
+              "cross": false
+            },
+            {
+              "img": "/img/foods/donut.jpg",
+              "name": "Donut",
+              "cross": true
+            },
+            {
+              "img": "/img/foods/icecream.jpg",
+              "name": "Ice Cream",
+              "cross": true
+            },
+            {
+              "img": "/img/foods/milk.jpg",
+              "name": "Milk",
+              "cross": false
+            },
+            {
+              "img": "/img/foods/orange.jpg",
+              "name": "Orange",
+              "cross": false
+            },
+            {
+              "img": "/img/foods/pastry.jpg",
+              "name": "Pastry",
+              "cross": true
+            },
+            {
+              "img": "/img/foods/peas.jpg",
+              "name": "Peas",
+              "cross": false
+            },
+            {
+              "img": "/img/foods/salad.jpg",
+              "name": "Salad",
+              "cross": false
+            },
+            {
+              "img": "/img/foods/watermelon.jpg",
+              "name": "Watermelon",
+              "cross": false
+            },
+            {
+              "img": "/img/foods/banana.jpg",
+              "name": "Banana",
+              "cross": false
+            },
+            {
+              "img": "/img/foods/biscuits.jpg",
+              "name": "Biscuits",
+              "cross": true
+            },
+            {
+              "img": "/img/foods/capsicum.jpg",
+              "name": "Capsicum",
+              "cross": false
+            },
+            {
+              "img": "/img/foods/cone.jpg",
+              "name": "Cone",
+              "cross": true
+            },
+            {
+              "img": "/img/foods/cupcake.jpg",
+              "name": "Cupcake",
+              "cross": true
+            },
+            {
+              "img": "/img/foods/grapes.jpg",
+              "name": "Grapes",
+              "cross": false
+            },
+            {
+              "img": "/img/foods/pudding.jpg",
+              "name": "Pudding",
+              "cross": true
+            }
+          ]
+}

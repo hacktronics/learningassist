@@ -1,0 +1,65 @@
+[
+  {
+    "q": "How many days are there in {month}, {year}?",
+    "o": [
+      30,
+      28,
+      29,
+      31
+    ],
+    "a": 0
+  },
+  {
+    "q": "What day is {date}?",
+    "o": "daysList"
+  },
+  {
+    "q": "How many days are there in {month}, {year}?",
+    "o": [
+      30,
+      28,
+      29,
+      31
+    ],
+    "a": 0
+  },
+  {
+    "q": "How many {day} days are there in {month}, {year}?",
+    "o": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "q": "Which is the {randMon} month of the year?",
+    "o": "monthsList"
+  },
+  {
+    "q": "Mark your birthday on the calendar?",
+    "o": "daysList"
+  },
+  {
+    "q": "Which month comes after {month}?",
+    "o": "monthsList"
+  },
+  {
+    "q": "Which month comes before {month}?",
+    "o": "monthsList"
+  },
+  {
+    "q": "Is the current year a leap year?",
+    "o": ["True", "False"]
+  },
+  {
+    "q": "How many months have 31 days in a year?",
+    "o": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "a": 7
+  }
+]

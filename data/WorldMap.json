@@ -1,0 +1,178 @@
+{
+    "image" : "/img/maps/worldoutline.png",
+    "size": {
+        "width": 1600.00,
+        "height": 1033.00
+    },
+    "radius": 30,
+    "locations": [
+        {
+            "name" : "India",
+            "coordinate" : {
+                "x": 1092,
+                "y": 399
+            }
+        },
+        {
+            "name" : "Australia",
+            "coordinate" : {
+                "x": 1328,
+                "y": 613
+            }
+        },
+        {
+            "name" : "Canada",
+            "coordinate" : {
+                "x": 287,
+                "y": 211
+            }
+        },
+        {
+            "name" : "Saudi Arabia",
+            "coordinate" : {
+                "x": 941,
+                "y": 396
+            }
+        },
+        {
+            "name" : "United States",
+            "coordinate" : {
+                "x": 308,
+                "y": 320
+            }
+        },
+        {
+            "name" : "Russia",
+            "coordinate" : {
+                "x": 1185,
+                "y": 165
+            }
+        },
+        {
+            "name" : "South Africa",
+            "coordinate" : {
+                "x": 854,
+                "y": 635
+            }
+        },
+        {
+            "name" : "Turkey",
+            "coordinate" : {
+                "x": 901,
+                "y": 318
+            }
+        },
+        {
+            "name" : "Argentina",
+            "coordinate" : {
+                "x": 462,
+                "y": 667
+            }
+        },
+        {
+            "name" : "Brazil",
+            "coordinate" : {
+                "x": 526,
+                "y": 552
+            }
+        },
+        {
+            "name" : "Mexico",
+            "coordinate" : {
+                "x": 306,
+                "y": 401
+            }
+        },
+        {
+            "name" : "France",
+            "coordinate" : {
+                "x": 763,
+                "y": 280
+            }
+        },
+        {
+            "name" : "Germany",
+            "coordinate" : {
+                "x": 794,
+                "y": 253
+            }
+        },
+        {
+            "name" : "Italy",
+            "coordinate" : {
+                "x": 808,
+                "y": 301
+            }
+        },
+        {
+            "name" : "United Kingdom",
+            "coordinate" : {
+                "x": 744,
+                "y": 244
+            }
+        },
+        {
+            "name" : "South Korea",
+            "coordinate" : {
+                "x": 1303,
+                "y": 334
+            }
+        },
+        {
+            "name" : "Indonesia",
+            "coordinate" : {
+                "x": 1193,
+                "y": 510
+            }
+        },
+        {
+            "name" : "Japan",
+            "coordinate" : {
+                "x": 1352,
+                "y": 333
+            }
+        },
+        {
+            "name" : "China",
+            "coordinate" : {
+                "x": 1195,
+                "y": 342
+            }
+        },
+        {
+            "name" : "Antarctica",
+            "coordinate" : {
+                "x": 965,
+                "y": 932
+            }
+        },
+        {
+            "name" : "Greenland",
+            "coordinate" : {
+                "x": 572,
+                "y": 75
+            }
+        },
+        {
+            "name" : "Pakistan",
+            "coordinate" : {
+                "x": 1042,
+                "y": 376
+            }
+        },
+        {
+            "name" : "Egypt",
+            "coordinate" : {
+                "x": 877,
+                "y": 380
+            }
+        },
+        {
+            "name" : "Iran",
+            "coordinate" : {
+                "x": 990,
+                "y": 356
+            }
+        }
+    ]
+}

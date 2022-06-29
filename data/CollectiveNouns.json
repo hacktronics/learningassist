@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "start": "a",
+      "ans": "lodge",
+      "end": "of beavers."
+    },
+    {
+      "start": "a",
+      "ans": "colony",
+      "end": "of ants."
+    },
+    {
+      "start": "a",
+      "ans": "flock",
+      "end": "of geese."
+    },
+    {
+      "start": "a",
+      "ans": "swarm",
+      "end": "of bees."
+    },
+    {
+      "start": "a",
+      "ans": "herd",
+      "end": "of buffalo."
+    },
+    {
+      "start": "a",
+      "ans": "rookery",
+      "end": "of penguins."
+    },
+    {
+      "start": "a",
+      "ans": "school",
+      "end": "of fish."
+    },
+    {
+      "start": "a",
+      "ans": "bed",
+      "end": "of snakes."
+    },
+    {
+      "start": "a",
+      "ans": "litter",
+      "end": "of puppies."
+    },
+    {
+      "start": "a",
+      "ans": "pack",
+      "end": "of wolves."
+    }
+  ],
+  "words": [
+    {
+      "word": "school" 
+    },
+    {
+      "word": "bed" 
+    },
+    {
+      "word": "litter" 
+    },
+    {
+      "word": "herd" 
+    },
+    {
+      "word": "lodge" 
+    },
+    {
+      "word": "pack" 
+    },
+    {
+      "word": "flock" 
+    },
+    {
+      "word": "colony" 
+    },
+    {
+      "word": "rookery" 
+    },
+    {
+      "word": "swarm" 
+    }
+  ]
+}

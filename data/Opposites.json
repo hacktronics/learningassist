@@ -1,0 +1,466 @@
+[
+  {
+    "word": "Happy",
+    "opposite": "Sad"
+  },
+  {
+    "word": "Tall",
+    "opposite": "Short"
+  },
+  {
+    "word": "Young",
+    "opposite": "Old"
+  },
+  {
+    "word": "Hot",
+    "opposite": "Cold"
+  },
+  {
+    "word": "Light",
+    "opposite": "Dark"
+  },
+  {
+    "word": "Even",
+    "opposite": "Odd"
+  },
+  {
+    "word": "Fast",
+    "opposite": "Slow"
+  },
+  {
+    "word": "Close",
+    "opposite": "Open"
+  },
+  {
+    "word": "Far",
+    "opposite": "Near"
+  },
+  {
+    "word": "Give",
+    "opposite": "Take"
+  },
+  {
+    "word": "Night",
+    "opposite": "Day"
+  },
+  {
+    "word": "Import",
+    "opposite": "Export"
+  },
+  {
+    "word": "Late",
+    "opposite": "Early"
+  },
+  {
+    "word": "Hard",
+    "opposite": "Easy"
+  },
+  {
+    "word": "Never ",
+    "opposite": "Always "
+  },
+  {
+    "word": "Late",
+    "opposite": "Early "
+  },
+  {
+    "word": "Less ",
+    "opposite": "More "
+  },
+  {
+    "word": "Male",
+    "opposite": "Female "
+  },
+  {
+    "word": "Happiness",
+    "opposite": "Sadness "
+  },
+  {
+    "word": "Fast ",
+    "opposite": "Slow "
+  },
+  {
+    "word": "Old ",
+    "opposite": "Young "
+  },
+  {
+    "word": "Boy",
+    "opposite": "Girl "
+  },
+  {
+    "word": "Up",
+    "opposite": "Down "
+  },
+  {
+    "word": "Left",
+    "opposite": "Right "
+  },
+  {
+    "word": "Rich",
+    "opposite": "Poor "
+  },
+  {
+    "word": "Love ",
+    "opposite": "Hate "
+  },
+  {
+    "word": "Inside ",
+    "opposite": "Outside "
+  },
+  {
+    "word": "Bad ",
+    "opposite": "Good "
+  },
+  {
+    "word": "Short ",
+    "opposite": "Tall "
+  },
+  {
+    "word": "Huge ",
+    "opposite": " Tiny"
+  },
+  {
+    "word": "Normal ",
+    "opposite": " Strange"
+  },
+  {
+    "word": "Little ",
+    "opposite": " Much"
+  },
+  {
+    "word": "In ",
+    "opposite": " Out"
+  },
+  {
+    "word": "Hot ",
+    "opposite": " Cold"
+  },
+  {
+    "word": "Soft ",
+    "opposite": " Hard"
+  },
+  {
+    "word": "Stop",
+    "opposite": " Move"
+  },
+  {
+    "word": "Begin ",
+    "opposite": " Finish"
+  },
+  {
+    "word": "Visible ",
+    "opposite": " Invisible"
+  },
+  {
+    "word": "Alive ",
+    "opposite": " Death"
+  },
+  {
+    "word": "North ",
+    "opposite": " South"
+  },
+  {
+    "word": "Clever ",
+    "opposite": " Stupid"
+  },
+  {
+    "word": "Before ",
+    "opposite": " After"
+  },
+  {
+    "word": "Sweet ",
+    "opposite": " Sour"
+  },
+  {
+    "word": "Increase ",
+    "opposite": " Reduce"
+  },
+  {
+    "word": "Close",
+    "opposite": "Open "
+  },
+  {
+    "word": "Man",
+    "opposite": "Woman "
+  },
+  {
+    "word": "Difficult",
+    "opposite": "Easy "
+  },
+  {
+    "word": "Full",
+    "opposite": "Empty "
+  },
+  {
+    "word": "Let",
+    "opposite": "Forbit "
+  },
+  {
+    "word": "Dim ",
+    "opposite": "Bright "
+  },
+  {
+    "word": "Melt ",
+    "opposite": "Freeze "
+  },
+  {
+    "word": "Child",
+    "opposite": " Adult"
+  },
+  {
+    "word": "Brief ",
+    "opposite": " Long"
+  },
+  {
+    "word": "On ",
+    "opposite": " Off"
+  },
+  {
+    "word": "Amateur ",
+    "opposite": " Professional"
+  },
+  {
+    "word": "Liquid ",
+    "opposite": " Solid"
+  },
+  {
+    "word": "Borrow ",
+    "opposite": " Lend"
+  },
+  {
+    "word": "Ally ",
+    "opposite": " Enemy"
+  },
+  {
+    "word": "Start ",
+    "opposite": " Finish"
+  },
+  {
+    "word": "Powerful ",
+    "opposite": "Weak"
+  },
+  {
+    "word": "Natural ",
+    "opposite": " Artificial"
+  },
+  {
+    "word": "Thick",
+    "opposite": " Thin"
+  },
+  {
+    "word": "Wet ",
+    "opposite": " Dry"
+  },
+  {
+    "word": "Far ",
+    "opposite": " Near"
+  },
+  {
+    "word": "Serious ",
+    "opposite": " Funny"
+  },
+  {
+    "word": "Sunny ",
+    "opposite": " Cloudy"
+  },
+  {
+    "word": "Cheap ",
+    "opposite": " Expensive"
+  },
+  {
+    "word": "Regular",
+    "opposite": "Irregular "
+  },
+  {
+    "word": "Kind",
+    "opposite": "Cruel "
+  },
+  {
+    "word": "Awake",
+    "opposite": "Asleep "
+  },
+  {
+    "word": "Combine",
+    "opposite": "Seperate "
+  },
+  {
+    "word": "Wide",
+    "opposite": "Narrow "
+  },
+  {
+    "word": "Heavy",
+    "opposite": "Light "
+  },
+  {
+    "word": "Deep ",
+    "opposite": "Swallow "
+  },
+  {
+    "word": "Safe",
+    "opposite": "Dangerous "
+  },
+  {
+    "word": "Total",
+    "opposite": "Partial "
+  },
+  {
+    "word": "Here",
+    "opposite": "There "
+  },
+  {
+    "word": "Never ",
+    "opposite": "Always "
+  },
+  {
+    "word": "Tight ",
+    "opposite": "Loose "
+  },
+  {
+    "word": "Top ",
+    "opposite": "Bottom "
+  },
+  {
+    "word": "Unity",
+    "opposite": "Division "
+  },
+  {
+    "word": "Single",
+    "opposite": "Married "
+  },
+  {
+    "word": "Smooth ",
+    "opposite": "Rough "
+  },
+  {
+    "word": "Special ",
+    "opposite": "General "
+  },
+  {
+    "word": "Summer ",
+    "opposite": "Winter "
+  },
+  {
+    "word": "Teach ",
+    "opposite": "Learn "
+  },
+  {
+    "word": "Maximum",
+    "opposite": "Minimum "
+  },
+  {
+    "word": "Modern ",
+    "opposite": "Ancient "
+  },
+  {
+    "word": "Noisy ",
+    "opposite": "Quiet "
+  },
+  {
+    "word": "Other",
+    "opposite": "Same "
+  },
+  {
+    "word": "Polite ",
+    "opposite": "Rude "
+  },
+  {
+    "word": "Pretty",
+    "opposite": "Ugly "
+  },
+  {
+    "word": "Push ",
+    "opposite": "Pull "
+  },
+  {
+    "word": "Ask",
+    "opposite": "Reply "
+  },
+  {
+    "word": "High",
+    "opposite": "Low "
+  },
+  {
+    "word": "Include",
+    "opposite": "Exclude "
+  },
+  {
+    "word": "Interesting ",
+    "opposite": " Boring"
+  },
+  {
+    "word": "Many ",
+    "opposite": "Few"
+  },
+  {
+    "word": "Useful",
+    "opposite": " Useless"
+  },
+  {
+    "word": "Huge ",
+    "opposite": " Tiny"
+  },
+  {
+    "word": "Visitor ",
+    "opposite": " Host"
+  },
+  {
+    "word": "Sister ",
+    "opposite": " Brother"
+  },
+  {
+    "word": "Sit ",
+    "opposite": " Stand"
+  },
+  {
+    "word": "Suburb ",
+    "opposite": " Centre"
+  },
+  {
+    "word": "Supporter ",
+    "opposite": " Opponent"
+  },
+  {
+    "word": "Major ",
+    "opposite": " Minor"
+  },
+  {
+    "word": "Mess ",
+    "opposite": " Order"
+  },
+  {
+    "word": "Narrow ",
+    "opposite": " Broad"
+  },
+  {
+    "word": "Not yet ",
+    "opposite": " Ready"
+  },
+  {
+    "word": "Peace ",
+    "opposite": " War"
+  },
+  {
+    "word": "Poverty ",
+    "opposite": " Wealth"
+  },
+  {
+    "word": "Public ",
+    "opposite": " Private"
+  },
+  {
+    "word": "Regret",
+    "opposite": "Satisfaction"
+  },
+  {
+    "word": "Remember ",
+    "opposite": " Forget"
+  },
+  {
+    "word": "Humid ",
+    "opposite": " Dry"
+  },
+  {
+    "word": "Junior ",
+    "opposite": " Senior"
+  }
+]

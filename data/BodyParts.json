@@ -1,0 +1,68 @@
+{
+	"img": "/img/body-parts/body.jpg",
+	"width": 999,
+	"height": 996,
+	"name": "Body Parts",
+	"slots": [
+		{
+			"x": 55, "y": 104, "ans": "Hair"
+		},
+		{
+			"x": 55, "y": 198, "ans": "Eye"
+		},
+		{
+			"x": 55, "y": 292, "ans": "Face"
+		},
+		{
+			"x": 55, "y": 385, "ans": "Neck"
+		},
+		{
+			"x": 55, "y": 471, "ans": "Arm"
+		},
+		{
+			"x": 55, "y": 568, "ans": "Hand"
+		},
+		{
+			"x": 55, "y": 659, "ans": "Finger"
+		},
+		{
+			"x": 55, "y": 753, "ans": "Stomach"
+		},
+		{
+			"x": 55, "y": 846, "ans": "Leg"
+		},
+		{
+			"x": 55, "y": 938, "ans": "Toe"
+		},
+		{
+			"x": 743, "y": 106, "ans": "Nose"
+		},
+		{
+			"x": 743, "y": 198, "ans": "Ear"
+		},
+		{
+			"x": 743, "y": 292, "ans": "Mouth"
+		},
+		{
+			"x": 743, "y": 387, "ans": "Tooth"
+		},
+		{
+			"x": 743, "y": 477, "ans": "Shoulder"
+		},
+		{
+			"x": 743, "y": 569, "ans": "Elbow"
+		},
+		{
+			"x": 743, "y": 663, "ans": "Chest"
+		},
+		{
+			"x": 743, "y": 753, "ans": "Hip"
+		},
+		{
+			"x": 743, "y": 844, "ans": "Knee"
+		},
+		{
+			"x": 743, "y": 941, "ans": "Foot"
+		}
+	]
+}

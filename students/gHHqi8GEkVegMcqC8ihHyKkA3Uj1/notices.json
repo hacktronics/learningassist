@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Weekly Schedule",
+    "message": "",
+    "attachment": {
+      "name": "Sr.KG_M2 W3 Plan.pdf",
+      "link": "https://google.com",
+      "type": "PDF"
+    },
+    "date": "21-07-2020 11:09 AM"
+  },
+  {
+    "title": "School Note",
+    "message": "Dear Parent, Please note that in an endeavour to strengthen the bond between teachers and children, the Weekend Engagement Activity is scheduled on Saturday, 18.07.2020. Timing and Google Meet link have been shared through mail. Please ensure that your child is present for the Live session. Thank you. Regards, LearingAssist, Bangalore.",
+    "date": "11-07-2020 01:32 PM"
+  },
+  {
+    "title": "School Note",
+    "message": "Dear Parent, Please note that details regarding Live session has been shared through mail. Kindly check. Regards, LearingAssist, Bangalore.",
+    "date": "04-07-2020 04:15 PM"
+  },
+  {
+    "title": "School Note",
+    "message": "Dear Parent, Please note that Virtual PTM II has been scheduled between 27th July ’20 and 5th August ’20. Details regarding date and time slot will shared through mail in due course. Regards, LearingAssist, Bangalore.",
+    "date": "29-06-2020 04:35 PM"
+  },
+  {
+    "title": "Circular",
+    "message": "ICSE & ISC Results.",
+    "attachment": {
+      "name": "Circular ICSE & ISC Result.pdf",
+      "link": "https://google.com",
+      "type": "PDF"
+    },
+    "date": "15-06-2020 03:25 PM"
+  },
+  {
+    "title": "Live Session",
+    "message": "",
+    "attachment": {
+      "name": "Weekened Activity Chrysalis High.jpeg",
+      "link": "https://google.com",
+      "type": "JPEG"
+    },
+    "date": "11-06-2020 02:13 PM"
+  }
+]

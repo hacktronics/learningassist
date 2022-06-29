@@ -1,0 +1,74 @@
+[
+  {
+    "img": "bear.png",
+    "name": "Bear"
+  },
+  {
+    "img": "camel.png",
+    "name": "Camel"
+  },
+  {
+    "img": "cow.png",
+    "name": "Cow"
+  },
+  {
+    "img": "dog.png",
+    "name": "Dog"
+  },
+  {
+    "img": "elephant.png",
+    "name": "Elephant"
+  },
+  {
+    "img": "hen.png",
+    "name": "Hen"
+  },
+  {
+    "img": "kangaroo.png",
+    "name": "Kangaroo"
+  },
+  {
+    "img": "lion.png",
+    "name": "Lion"
+  },
+  {
+    "img": "monkey.png",
+    "name": "Monkey"
+  },
+  {
+    "img": "ostrich.png",
+    "name": "Ostrich"
+  },
+  {
+    "img": "peacock.png",
+    "name": "Peacock"
+  },
+  {
+    "img": "penguin.png",
+    "name": "Penguin"
+  },
+  {
+    "img": "pig.png",
+    "name": "Pig"
+  },
+  {
+    "img": "sheep.png",
+    "name": "Sheep"
+  },
+  {
+    "img": "snake.png",
+    "name": "Snake"
+  },
+  {
+    "img": "stag.png",
+    "name": "Stag"
+  },
+  {
+    "img": "vulture.png",
+    "name": "Vulture"
+  },
+  {
+    "img": "zebra.png",
+    "name": "Zebra"
+  }
+]

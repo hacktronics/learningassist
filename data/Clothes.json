@@ -1,0 +1,82 @@
+[
+  {
+    "ques": "/img/clothes/shirt.jpg",
+    "ans": "Shirt"
+  },
+  {
+    "ques": "/img/clothes/scarf.jpg",
+    "ans": "Scarf"
+  },
+  {
+    "ques": "/img/clothes/cap.jpg",
+    "ans": "Cap"
+  },
+  {
+    "ques": "/img/clothes/hat.jpg",
+    "ans": "Hat"
+  },
+  {
+    "ques": "/img/clothes/dress.jpg",
+    "ans": "Dress"
+  },
+  {
+    "ques": "/img/clothes/skirt.jpg",
+    "ans": "Skirt"
+  },
+  {
+    "ques": "/img/clothes/tie.jpg",
+    "ans": "Tie"
+  },
+  {
+    "ques": "/img/clothes/jeans.jpg",
+    "ans": "Jeans"
+  },
+  {
+    "ques": "/img/clothes/blouse.jpg",
+    "ans": "Blouse"
+  },
+  {
+    "ques": "/img/clothes/glasses.jpg",
+    "ans": "Glasses"
+  },
+  {
+    "ques": "/img/clothes/jacket.jpg",
+    "ans": "Jacket"
+  },
+  {
+    "ques": "/img/clothes/pants.jpg",
+    "ans": "Pants"
+  },
+  {
+    "ques": "/img/clothes/pullover.jpg",
+    "ans": "Pullover"
+  },
+  {
+    "ques": "/img/clothes/sandals.jpg",
+    "ans": "Sandals"
+  },
+  {
+    "ques": "/img/clothes/shorts.jpg",
+    "ans": "Shorts"
+  },
+  {
+    "ques": "/img/clothes/sneakers.jpg",
+    "ans": "Sneakers"
+  },
+  {
+    "ques": "/img/clothes/suit.jpg",
+    "ans": "Suit"
+  },
+  {
+    "ques": "/img/clothes/windbreaker.jpg",
+    "ans": "Windbreaker"
+  },
+  {
+    "ques": "/img/clothes/raincoat.jpg",
+    "ans": "Raincoat"
+  },
+  {
+    "ques": "/img/clothes/socks.jpg",
+    "ans": "Socks"
+  }
+]

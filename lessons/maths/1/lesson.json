@@ -1,0 +1,19 @@
+{
+  "title": "Least Common Multiples (LCMs) - Part 1",
+  "path": "/lesson/maths/1/least-common-multiples-lcm-part-1",
+  "video": "https://www.youtube.com/embed/Z6-LksV08qU",
+  "content": [
+    "<p>A <strong> common multiple </strong> of two whole numbers</a> \\(a\\) and \\(b\\) is a number \\(c\\) which \\(a\\) and \\(b\\) both divide into evenly.</p>",
+    "<p>For example, \\(48\\) is a common multiple of \\(6\\) and \\(12\\) since:</p>",
+    "<p>\\(8÷6=8\\) and </p>",
+    "<p>\\(48÷12=4\\).</p>",
+    "<p>The least common multiple is just what it sounds like... the smallest of all the common multiples.</p>",
+    "<p><strong><span class='text-danger'>Example 1:</span></strong></p>",
+    "<p>Find the least common multiple of \\(9\\) and \\(12\\). </p>",
+    "<p>To do this, we can list the multiples: </p>",
+    "<p>\\(9: 9, 18, 27, \\underline{36}, 45, 54, 63, 72, ...\\)</p>",
+    "<p>\\(12: 12, 24, \\underline{36}, 48, 60, 72, ...\\)</p>",
+    "<p>\\(36\\) is the first number that occurs in both lists. So \\(36\\) is the LCM. </p>",
+    "<p>The listing method is impractical for large numbers.</p>"
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "word": "Cat",
+    "img": "/img/words/cat.jpg"
+  },
+  {
+    "word": "Bat",
+    "img": "/img/words/bat.jpg"
+  },
+  {
+    "word": "Hat",
+    "img": "/img/words/hat.jpg"
+  },
+  {
+    "word": "Rat",
+    "img": "/img/words/rat.jpg"
+  },
+  {
+    "word": "Mat",
+    "img": "/img/words/mat.jpg"
+  },
+  {
+    "word": "Cow",
+    "img": "/img/words/cow.jpg"
+  }, 
+  {
+    "word": "Dog",
+    "img": "/img/words/Dog.jpg"
+  },
+  {
+    "word": "Sun",
+    "img": "/img/words/sun.jpg"
+  }, 
+  {
+    "word": "Bun",
+    "img": "/img/words/bun.jpg"
+  }, 
+  {
+    "word": "Run",
+    "img": "/img/words/run.jpg"
+  },
+  {
+    "word": "Man",
+    "img": "/img/words/man.jpg"
+  }, 
+  {
+    "word": "Fan",
+    "img": "/img/words/fan.jpg"
+  }, 
+  {
+    "word": "Pan",
+    "img": "/img/words/pan.jpg"
+  }
+]

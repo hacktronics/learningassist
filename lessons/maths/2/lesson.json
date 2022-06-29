@@ -1,0 +1,30 @@
+{
+  "title": "Least Common Multiples (LCMs) - Part 2",
+  "path": "/lesson/maths/2/least-common-multiples-lcm-part-2",
+  "video": "https://www.youtube.com/embed/iIo8B_v_uuc",
+  "content": [
+    "<p>Another way to find the LCM of two numbers is to divide their product by their greatest common factor ( GCF ).</p>",
+    "<p><strong><span class='text-danger'>Example 2:</span></strong></p>",
+    "<p>Find the least common multiple of \\(18\\) and \\(30\\).</p>",
+    "<p>To find the GCF of \\(18\\) and \\(30\\), you can write their prime factorizations:</p>",
+    "<p>\\(18=2&#x22C5;3&#x22C5;3\\)</p>",
+    "<p>\\(30=2&#x22C5;3&#x22C5;5\\)</p>",
+    "<p>\\(\\frac{18&#x22C5;30}{6}=\\frac{3&#x22C5;6&#x22C5;30}{6}=90\\)</p>",
+    "<p>When the GCF of two numbers is \\(1\\), the LCM is equal to the product of the two numbers.</p>",
+    "<p><strong><span class='text-danger'>Example 3:</span></strong></p>",
+    "<p>Find the least common multiple of \\(10\\) and \\(27\\).</p>",
+    "<p>\\(10\\) and \\(27\\) share no common factors other than \\(1\\). So, the GCF is \\(1\\).</p>",
+    "<p>Therefore, the LCM is simply \\(10&#x22C5;27=270\\).</p>",
+    "<p>A third way to find the LCM of is to list all of the prime factors of each number and then multiply all of the factors the greatest number of times each occurs in any of the lists. [Note that while the previous method won't always work with more than \\(2\\) numbers, this method will.]</p>",
+    "<p><strong><span class='text-danger'>Example 4:</span></strong></p>",
+    "<p>Find the LCM of \\(16\\), \\(25\\) and \\(60\\).</p>",
+    "<p>\\(16=2&#x22C5;2&#x22C5;2&#x22C5;2\\)</p>",
+    "<p>\\(25=5&#x22C5;5\\)</p>",
+    "<p>\\(60=2&#x22C5;2&#x22C5;3&#x22C5;5\\)</p>",
+    "<p>The greatest number of times the factor \\(2\\) occurs is four (in the first list). </p>",
+    "<p>The greatest number of times the factor \\(3\\) occurs is one (in the third list). </p>",
+    "<p>The greatest number of times the factor \\(5\\) occurs is two (in the second list). </p>",
+    "<p>So, we multiply four \\(2\\)s, one \\(3\\), and two \\(5\\)s. </p>",
+    "<p>LCM = \\(2&#x22C5;2&#x22C5;2&#x22C5;2&#x22C5;3&#x22C5;5&#x22C5;5=1200\\)</p>"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "ques": "Living things need air.",
+    "ans": true
+  },
+  {
+    "ques": "Non-living things need food and water.",
+    "ans": false
+  },
+  {
+    "ques": "Non-living things can move on their own.",
+    "ans": false
+  },
+  {
+    "ques": "Living things can grow.",
+    "ans": true
+  },
+  {
+    "ques": "You are a living thing.",
+    "ans": true
+  },
+  {
+    "ques": "Plants are non living things as they don't talk and move.",
+    "ans": false
+  }
+]

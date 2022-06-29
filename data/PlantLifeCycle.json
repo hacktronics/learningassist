@@ -1,0 +1,32 @@
+{
+	"img": "/img/plant-life-cycle/plant.png",
+	"width": 1700,
+	"height": 2077,
+	"name": "Plant Life Cycle",
+	"slots": [
+		{
+			"x": 935, "y": 250, "ans": "Bean"
+		},
+		{
+			"x": 1200, "y": 890, "ans": "Seed"
+		},
+		{
+			"x": 1280, "y": 1230, "ans": "Germination"
+		},
+		{
+			"x": 1040, "y": 1870, "ans": "Root"
+		},
+		{
+			"x": 1040, "y": 1480, "ans": "Shoot"
+		},
+		{
+			"x": 550, "y": 1450, "ans": "Seedling"
+		},
+		{
+			"x": 360, "y": 1230, "ans": "Flowering"
+		},
+		{
+			"x": 390, "y": 430, "ans": "Fruiting"
+		}
+	]
+}

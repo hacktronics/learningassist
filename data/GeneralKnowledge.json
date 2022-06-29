@@ -1,0 +1,38 @@
+[
+  {
+    "q": "Who is the captain of the Indian cricket team?",
+    "o": [
+      "Mahendra Singh Dhoni",
+      "Virat Kohli",
+      "Rohit Sharma",
+      "Jasprit Bumrah"
+    ],
+    "a": 1,
+    "d": "Virat Kohli is an Indian cricketer who currently captains the India national team. A right-handed top-order batsman, Kohli is regarded as one of the best batsmen in the world. Since October 2017, he has been the top-ranked ODI batsman in the world and is currently 2nd in Test rankings with 886 points."
+  },
+  {
+    "q": "How many planets are there in the solar system?",
+    "o": [8, 9, 7, 10],
+    "a": 0,
+    "d": "There are 8 planets in the solar system, starting nearest the sun and working outward is the following: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. The International Astronomical Union ultimately decided in 2006 to designate Pluto as a dwarf planet, reducing the list of the solar system's true planets to just eight."
+  },
+  {
+    "q": "How many colors are there in a rainbow?",
+    "o": [8, 9, 7, 5],
+    "a": 2,
+    "d": "There are seven colors in the rainbow: red, orange, yellow, green, blue, indigo and violet."
+  },
+  {
+    "q": "How many continents are there in the world?",
+    "o": [8, 6, 7, 5],
+    "a": 2,
+    "d": "The first continent system is the seven continent system consisting of Europe, Asia, Africa, Australia, North America, South America and Antarctica. This seven-continent model is usually taught in schools. Some geographers regard Europe and Asia together as a single continent, dubbed Eurasia."
+  },
+  {
+    "q": "Identify the monument from the picture shown below?",
+    "img": "/img/gk/towerpisa.webp",
+    "o": ["Qutb Minar", "Leaning Tower of Pisa", "Vijaya Stambha", "Roman Colosseum"],
+    "a": 1,
+    "d": "Leaning Tower of Pisa, medieval structure in Pisa, Italy, is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation. The tower began to lean during construction in the 12th century, due to soft ground which could not properly support the structure's weight, and it worsened through the completion of construction in the 14th century. By 1990 the tilt had reached 5.5 degrees."
+  }
+]

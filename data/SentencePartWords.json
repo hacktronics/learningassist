@@ -1,0 +1,102 @@
+{
+  "types": [
+    {
+      "type": "Noun",
+      "value": 1
+    },
+    {
+      "type": "Verb",
+      "value": 2
+    },
+    {
+      "type": "Adjective",
+      "value": 3
+    },
+    {
+      "type": "Adverb",
+      "value": 4
+    }
+  ],
+  "words": [
+    {
+      "word": "mother",
+      "type": 1
+    },
+    {
+      "word": "floor",
+      "type": 1
+    },
+    {
+      "word": "look",
+      "type": 2
+    },
+    {
+      "word": "cold",
+      "type": 3
+    },
+    {
+      "word": "table",
+      "type": 1
+    },
+    {
+      "word": "forgot",
+      "type": 2
+    },
+    {
+      "word": "dirty",
+      "type": 3
+    },
+    {
+      "word": "painted",
+      "type": 2
+    },
+    {
+      "word": "hill",
+      "type": 1
+    },
+    {
+      "word": "sharp",
+      "type": 3
+    },
+    {
+      "word": "sleep",
+      "type": 2
+    },
+    {
+      "word": "delicious",
+      "type": 3
+    },
+    {
+      "word": "pencil",
+      "type": 1
+    },
+    {
+      "word": "rabbit",
+      "type": 1
+    },
+    {
+      "word": "push",
+      "type": 2
+    },
+    {
+      "word": "yellow",
+      "type": 3
+    },
+    {
+      "word": "Bob",
+      "type": 1
+    },
+    {
+      "word": "find",
+      "type": 2
+    },
+    {
+      "word": "bumpy",
+      "type": 3
+    },
+    {
+      "word": "build",
+      "type": 2
+    }
+  ]
+}

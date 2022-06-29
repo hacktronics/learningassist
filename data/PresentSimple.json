@@ -1,0 +1,80 @@
+[
+  [
+    "Bob always",
+    {
+      "q": ["drink", "drinks"],
+      "a": 1
+    },
+    "tea in the morning."
+  ],
+  [
+    "What",
+    {
+      "q": ["do", "does"],
+      "a": 1
+    },
+    "she",
+    {
+      "q": ["like", "likes"],
+      "a": 0
+    },
+    "?"
+  ],
+  [
+    "My sister",
+    {
+      "q": ["don't", "doesn't"],
+      "a": 1
+    },
+    "play tennis."
+  ],
+  [
+    "They often",
+    {
+      "q": ["visit", "visits"],
+      "a": 0
+    },
+    "their grandparents at weekends."
+  ],
+  [
+    "We sometimes",
+    {
+      "q": ["go", "goes"],
+      "a": 0
+    },
+    "to the ice rink."
+  ],
+  [
+    "Where",
+    {
+      "q": ["do", "does"],
+      "a": 0
+    },
+    "your parents",
+    {
+      "q": ["come", "comes"],
+      "a": 0
+    },
+    "from?"
+  ],
+  [
+    {
+      "q": ["Do", "Does"],
+      "a": 0
+    },
+    "you",
+    {
+      "q": ["want", "wants"],
+      "a": 0
+    },
+    "to go home?"
+  ],
+  [
+    "I",
+    {
+      "q": ["don't", "doesn't"],
+      "a": 0
+    },
+    "watch television after school."
+  ]
+]

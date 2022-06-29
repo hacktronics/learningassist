@@ -1,0 +1,75 @@
+[
+  {
+    "sentence": ["Rahul", "went", "to", "Rohit", "to", "borrow", "his", "French", "textbook", "."],
+    "questions": [
+      {"i": 0, "t": "Proper"},
+      {"i": 3, "t": "Proper"},
+      {"i": 8, "t": "Common"}
+    ]
+  },
+  {
+    "sentence": ["The", "Japanese", "tourists", "loved", "seeing", "Kaziranga's", "elephants", "and", "tigers", "."],
+    "questions": [
+      {"i": 2, "t": "Common"},
+      {"i": 5, "t": "Possessive"},
+      {"i": 6, "t": "Common"},
+      {"i": 8, "t": "Common"}
+    ]
+  },
+  {
+    "sentence": ["Some", "of", "Rajan's", "friends", "went", "to", "Mysore", "for", "the", "holidays", "."],
+    "questions": [
+      {"i": 2, "t": "Possessive"},
+      {"i": 3, "t": "Common", "x": 10},
+      {"i": 6, "t": "Proper"},
+      {"i": 9, "t": "Abstract"}
+    ]
+  },
+  {
+    "sentence": ["The", "friendship", "between", "the", "boy", "and", "his", "pack", "of", "dogs", "was", "beautiful", "."],
+    "questions": [
+      {"i": 1, "t": "Abstract"},
+      {"i": 4, "t": "Common"},
+      {"i": 7, "t": "Collective"},
+      {"i": 9, "t": "Common"}
+    ]
+  },
+  {
+    "sentence": ["The", "crowd", "of", "people", "were", "overcome", "by", "sadness", "at", "the", "end", "of", "the", "show", "."],
+    "questions": [
+      {"i": 1, "t": "Collective"},
+      {"i": 3, "t": "Common"},
+      {"i": 7, "t": "Abstract"},
+      {"i": 13, "t": "Common"}
+    ]
+  },
+  {
+    "sentence": ["Preeti's", "mother", "sent", "her", "to", "the", "shop", "to", "get", "a", "bunch", "of", "bananas", "and", "bread", "."],
+    "questions": [
+      {"i": 0, "t": "Possessive"},
+      {"i": 1, "t": "Common", "x": 14},
+      {"i": 6, "t": "Common"},
+      {"i": 10, "t": "Collective"},
+      {"i": 12, "t": "Common"},
+      {"i": 14, "t": "Common"}
+    ]
+  },
+  {
+    "sentence": ["The", "hatred", "had", "consumed", "Fred's", "heart", "and", "made", "him", "a", "bitter", "man", "."],
+    "questions": [
+      {"i": 1, "t": "Abstract"},
+      {"i": 4, "t": "Possessive"},
+      {"i": 5, "t": "Common", "x": 21},
+      {"i": 11, "t": "Common"}
+    ]
+  },
+  {
+    "sentence": ["Dr. Yashwant", "is", "attending", "a", "conference", "in", "March", "and", "April", "."],
+    "questions": [
+      {"i": 0, "t": "Proper"},
+      {"i": 4, "t": "Common"},
+      {"i": 6, "t": "Proper"},
+      {"i": 8, "t": "Proper"}
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "q": "How many continents are there in the world?",
+    "img": "",
+    "o": [8, 6, 7, 5],
+    "a": 2,
+    "d": "The first continent system is the seven continent system consisting of Europe, Asia, Africa, Australia, North America, South America and Antarctica. This seven-continent model is usually taught in schools. Some geographers regard Europe and Asia together as a single continent, dubbed Eurasia."
+  },
+  {
+    "q": "Identify the monument from the picture shown below?",
+    "img": "/img/gk/towerpisa.webp",
+    "o": ["Qutb Minar", "Leaning Tower of Pisa", "Vijaya Stambha", "Roman Colosseum"],
+    "a": 1,
+    "d": "Leaning Tower of Pisa, medieval structure in Pisa, Italy, is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation. The tower began to lean during construction in the 12th century, due to soft ground which could not properly support the structure's weight, and it worsened through the completion of construction in the 14th century. By 1990 the tilt had reached 5.5 degrees."
+  }
+]

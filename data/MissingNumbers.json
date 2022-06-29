@@ -1,0 +1,44 @@
+{
+	"img": "/img/missing-numbers/caterpillar.png",
+	"width": 1900,
+	"height": 1375,
+	"name": "Missing Numbers",
+	"slots": [
+		{
+			"x": 180, "y": 660, "ans": "17", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 150, "y": 835, "ans": "16", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 120, "y": 1010, "ans": "15", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 650, "y": 480, "ans": "14", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 680, "y": 1015, "ans": "11", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 670, "y": 1190, "ans": "10", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 1170, "y": 660, "ans": "21", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 1145, "y": 835, "ans": "20", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 1145, "y": 1190, "ans": "18", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 1650, "y": 460, "ans": "9", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 1620, "y": 640, "ans": "8", "width": 120, "height": 120, "rounded": true, "font": 69
+		},
+		{
+			"x": 1610, "y": 995, "ans": "6", "width": 120, "height": 120, "rounded": true, "font": 69
+		}
+	]
+}

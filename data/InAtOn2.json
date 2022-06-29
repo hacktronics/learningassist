@@ -1,0 +1,84 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "start": "It's",
+      "blank": ["in", "at", "on"],
+      "end": "Delhi.",
+      "answer": "in",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "start": "She lives",
+      "blank": ["in", "at", "on"],
+      "end": "apartment no 301.",
+      "answer": "in",
+      "img": ""
+    },
+    {
+      "id": 3,
+      "start": "Don't stand",
+      "blank": ["in", "at", "on"],
+      "end": "the chair.",
+      "answer": "on",
+      "img": ""
+    },
+    {
+      "id": 4,
+      "start": "My friend lives",
+      "blank": ["in", "at", "on"],
+      "end": "84 MG Street.",
+      "answer": "in",
+      "img": ""
+    },
+    {
+      "id": 5,
+      "start": "I got married",
+      "blank": ["in", "at", "on"],
+      "end": "2006.",
+      "answer": "in",
+      "img": ""
+    },
+    {
+      "id": 6,
+      "start": "I got up",
+      "blank": ["in", "at", "on"],
+      "end": "6:00 this morning.",
+      "answer": "at",
+      "img": ""
+    },
+    {
+      "id": 7,
+      "start": "I went to the doctor",
+      "blank": ["in", "at", "on"],
+      "end": "Monday.",
+      "answer": "on",
+      "img": ""
+    },
+    {
+      "id": 8,
+      "start": "I am going to Disneyland",
+      "blank": ["in", "at", "on"],
+      "end": "25th December.",
+      "answer": "on",
+      "img": ""
+    },
+    {
+      "id": 9,
+      "start": "You left it",
+      "blank": ["in", "at", "on"],
+      "end": "the Kitchen.",
+      "answer": "in",
+      "img": ""
+    },
+    {
+      "id": 10,
+      "start": "Set the dish",
+      "blank": ["in", "at", "on"],
+      "end": "the table.",
+      "answer": "on",
+      "img": ""
+    }
+  ]
+}

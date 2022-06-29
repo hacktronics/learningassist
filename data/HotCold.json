@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/img/hot-cold/sun.png",
+    "ans": "Hot",
+    "options": ["Hot", "Cold"]
+  },
+  {
+    "img": "/img/hot-cold/colddrink.png",
+    "ans": "Cold",
+    "options": ["Hot", "Cold"]
+  },
+  {
+    "img": "/img/hot-cold/icecream.png",
+    "ans": "Cold",
+    "options": ["Hot", "Cold"]
+  },
+  {
+    "img": "/img/hot-cold/icecube.png",
+    "ans": "Cold",
+    "options": ["Hot", "Cold"]
+  },
+  {
+    "img": "/img/hot-cold/kettle.png",
+    "ans": "Hot",
+    "options": ["Hot", "Cold"]
+  },
+  {
+    "img": "/img/hot-cold/cup.png",
+    "ans": "Hot",
+    "options": ["Hot", "Cold"]
+  },
+  {
+    "img": "/img/hot-cold/campfire.png",
+    "ans": "Hot",
+    "options": ["Hot", "Cold"]
+  },
+  {
+    "img": "/img/hot-cold/icelolly.png",
+    "ans": "Cold",
+    "options": ["Hot", "Cold"]
+  }
+]

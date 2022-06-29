@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "img": "/img/indian-monuments/tajmahal.jpg",
+    "question": "Taj Mahal",
+    "answer": "Taj Mahal"
+  },
+  {
+    "id": 2,
+    "img": "/img/indian-monuments/indiagate.jpg",
+    "question": "India Gate",
+    "answer": "India Gate"
+  },
+  {
+    "id": 3,
+    "img": "/img/indian-monuments/redfort.jpg",
+    "question": "Red Fort",
+    "answer": "Red Fort"
+  },
+  {
+    "id": 4,
+    "img": "/img/indian-monuments/qutubminar.jpg",
+    "question": "Qutub Minar",
+    "answer": "Qutub Minar"
+  },
+  {
+    "id": 5,
+    "img": "/img/indian-monuments/lotustemple.jpg",
+    "question": "Lotus Temple",
+    "answer": "Lotus Temple"
+  },
+  {
+    "id": 6,
+    "img": "/img/indian-monuments/gatewayofindia.jpg",
+    "question": "Gateway of India",
+    "answer": "Gateway of India"
+  },
+  {
+    "id": 7,
+    "img": "/img/indian-monuments/charminar.jpg",
+    "question": "Charminar",
+    "answer": "Charminar"
+  },
+  {
+    "id": 8,
+    "img": "/img/indian-monuments/sanchistupa.jpg",
+    "question": "Sanchi Stupa",
+    "answer": "Sanchi Stupa"
+  },
+  {
+    "id": 9,
+    "img": "/img/indian-monuments/konark.jpg",
+    "question": "Konark Sun Temple",
+    "answer": "Konark Sun Temple"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "groups": ["subject", "object"],
+  "sentences": [
+    [{"w": "We", "t": "subject"}, "listened to Dad's silly jokes."],
+    [{"w": "I", "t": "subject"}, "was first in line at the ice cream truck."],
+    ["The artist will draw", {"w": "it", "t": "subject"}, "from memory."],
+    ["Aunt Sue gave", {"w": "me", "t": "object"}, "a cookie."],
+    ["Lily asked", {"w": "him", "t": "object"}, "for another slice of pizza."],
+    [{"w": "They", "t": "subject"}, "were late for school."],
+    ["The teacher handed", {"w": "us", "t": "object"}, "our report cards."],
+    [{"w": "She", "t": "subject"}, "asked the police officer for help."],
+    [{"w": "He", "t": "subject"}, "begged his parents for a dog."],
+    ["Kate watched", {"w": "them", "t": "object"}, "play chess."],
+    [{"w": "You", "t": "subject"}, "should brush your teeth before bed."],
+    [{"w": "It", "t": "subject"}, "is raining too hard to exercise outside."],
+    [{"w": "I", "t": "subject"}, "gave the ice cream cone to", {"w": "her", "t": "object"}, "."]
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ball",
+    "synopsis": "Color a ball.",
+    "path": "ball",
+    "cover": "ball.jpg"
+  },
+  {
+    "name": "flower",
+    "synopsis": "Color a flower.",
+    "path": "flower",
+    "cover": "flower.jpg"
+  },
+  {
+    "name": "house",
+    "synopsis": "Color a house.",
+    "path": "house",
+    "cover": "house.jpg"
+  },
+  {
+    "name": "umbrealla",
+    "synopsis": "Color a umbrealla.",
+    "path": "umbrealla",
+    "cover": "umbrealla.jpg"
+  },
+  {
+    "name": "cat",
+    "synopsis": "Color a cat.",
+    "path": "cat",
+    "cover": "cat.jpg"
+  },
+  {
+    "name": "sleepingcat",
+    "synopsis": "Color a sleeping cat.",
+    "path": "sleepingcat",
+    "cover": "sleepingcat.jpg"
+  },
+  {
+    "name": "turtle",
+    "synopsis": "Color a turtle.",
+    "path": "turtle",
+    "cover": "turtle.jpg"
+  },
+  {
+    "name": "engine",
+    "synopsis": "Color a engine.",
+    "path": "engine",
+    "cover": "engine.jpg"
+  },
+  {
+    "name": "chicken",
+    "synopsis": "Color a chicken.",
+    "path": "chicken",
+    "cover": "chicken.jpg"
+  },
+  {
+    "name": "pizza",
+    "synopsis": "Color a pizza.",
+    "path": "pizza",
+    "cover": "pizza.jpg"
+  }
+]

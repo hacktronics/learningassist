@@ -1,0 +1,38 @@
+[
+  {
+   "sentence": ["Aarav", "went", "to", "school", "."],
+   "answer": [0, 3]
+  },
+  {
+   "sentence": ["Kerala", "is", "a", "beautiful", "place", "."],
+   "answer": [0, 4]
+  },
+  {
+   "sentence": ["I", "love", "pizza", "."],
+   "answer": [0, 2]
+  },
+  {
+   "sentence": ["Today", "is", "very", "hot", "."],
+   "answer": [0]
+  },
+  {
+   "sentence": ["John", "and", "Mia", "made", "bread", "."],
+   "answer": [0, 2, 4]
+  },
+  {
+   "sentence": ["The", "dog", "is", "barking", "."],
+   "answer": [1]
+  },
+  {
+   "sentence": ["English", "is", "fun", "to", "learn", "."],
+   "answer": [0]
+  },
+  {
+   "sentence": ["Alaska", "can", "be", "very", "cold", "."],
+   "answer": [0]
+  },
+  {
+   "sentence": ["My", "name", "is", "Bond", "."],
+   "answer": [1, 3]
+  }
+]
